@@ -1,0 +1,12 @@
+name = "adatris"
+description = "Tetris written in Ada."
+version = "0.1.0-dev"
+
+authors = ["Dan Vu"]
+maintainers = ["Dan Vu <danvu.hustle@gmail.com>"]
+maintainers-logins = ["vushu"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = ["game", "tetris"]
+
+executables = ["adatris"]
